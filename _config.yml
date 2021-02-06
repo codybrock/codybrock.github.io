@@ -30,7 +30,8 @@ twitter_username: the_codybrock
 github_username:  codybrock
 
 # Build settings
-remote_theme: abhinavs/moonwalk
+theme: minima
+#remote_theme: abhinavs/moonwalk
 plugins:
   - jekyll-feed
 
